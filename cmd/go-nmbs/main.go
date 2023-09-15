@@ -16,7 +16,7 @@ func main() {
 		Usage: "The cli for when you are on the go with the NMBS.",
 		Authors: []*cli.Author{
 			{
-				Name:  "Mathias Maes",
+				Name: "Mathias Maes",
 			},
 		},
 		Flags: []cli.Flag{
